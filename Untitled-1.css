@@ -1,0 +1,11 @@
+/* styl dla znacznika body */
+body {
+  color: blue;
+  font-size: 30pt;
+}
+
+/* styl dla znacznika p */
+p {
+  color: green;
+  font-size: 20pt;
+}
