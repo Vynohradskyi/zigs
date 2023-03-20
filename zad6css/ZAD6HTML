@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Moja strona z 6 emotikonami</title>
+  <link rel="stylesheet" href="cztery_pierwsze_litery_nazwiska_z6.css">
+</head>
+<body>
+  <p>:P wytknięty język</p>
+  <p>:) uśmiechnięta twarz</p>
+  <p>;D z szerokim uśmiechem</p>
+  <p>:'( płacząca twarz</p>
+  <p>:O zdziwiona twarz</p>
+  <p>B-) uśmiechnięta twarz z okularami przeciwsłonecznymi</p>
+</body>
+</html>
